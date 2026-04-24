@@ -6,9 +6,9 @@ O objetivo do projeto é executar múltiplas ferramentas de análise de código 
 
 Para isso, está sendo desenvolvido um pipeline automatizado para análise de segurança de código, utilizando diferentes abordagens:
 
-SAST (Static Application Security Testing)
-DAST (Dynamic Application Security Testing)
-Ferramentas baseadas em Inteligência Artificial
+- SAST (Static Application Security Testing)
+- DAST (Dynamic Application Security Testing)
+- Ferramentas baseadas em Inteligência Artificial
 
 Objetivo deste repositório
 
